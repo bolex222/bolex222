@@ -18,9 +18,9 @@ In addition to Creative front-end development, I'm also interested in 3d creatio
 As said just above, I'm passionate about creative front-end development so If you're a UI/UX designer, motion designer, photographer, or any other kind of artist... let's talk and create together!
 
 ## 📫 How to reach me ...
-you can check out my work here on GitHub, on (Behance)[https://www.behance.net/bolex222lecout] (empty at the moment), and (codepen)[https://codepen.io/bolex222].
+you can check out my work here on GitHub, on [Behance](https://www.behance.net/bolex222lecout) (empty at the moment), and [codepen](https://codepen.io/bolex222).
 Currently working on a Webpage :O
 
-Contact me on (linkdin)[https://www.linkedin.com/in/blecout/]
+Contact me on [linkdin](https://www.linkedin.com/in/blecout/)
 
 ## checkout my reume [here](bolex222.github.io/creative_resume/)

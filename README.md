@@ -23,4 +23,4 @@ Currently working on a Webpage :O
 
 Contact me on [linkdin](https://www.linkedin.com/in/blecout/)
 
-## checkout my reume [here](bolex222.github.io/creative_resume/)
+## checkout my reume [here](https://bolex222.github.io/creative_resume/)
